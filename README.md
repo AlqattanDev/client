@@ -27,7 +27,7 @@ If this Dart package is published to Github, please include the following in pub
 dependencies:
   openapi:
     git:
-      url: https://github.com/GIT_USER_ID/GIT_REPO_ID.git
+      url: https://github.com/AlqattanDev/client.git
       #ref: main
 ```
 
